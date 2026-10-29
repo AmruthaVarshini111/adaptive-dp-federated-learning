@@ -1,0 +1,7 @@
+Synthetic federated learning demo complete.
+Rows: 800 Clients: 5 Rounds: 30
+       mode  final_loss  final_accuracy  rounds  clients  noise_multiplier_demo_only formal_epsilon
+non_private    0.537644         0.73500      30        5                        0.00   NOT_COMPUTED
+   fixed_dp    0.558555         0.70875      30        5                        0.35   NOT_COMPUTED
+   adaptive    0.536993         0.73875      30        5                        0.35   NOT_COMPUTED
+IMPORTANT: illustrative noise only; no formal epsilon/delta guarantee computed.

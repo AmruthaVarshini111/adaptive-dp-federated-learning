@@ -1,0 +1,16 @@
+{
+  "seed": 20261029,
+  "dataset": "synthetic_clients.csv",
+  "clients": 5,
+  "rounds": 30,
+  "local_epochs": 2,
+  "learning_rate": 0.12,
+  "noise_multiplier_demo_only": 0.35,
+  "privacy_claim": "No formal epsilon/delta guarantee is computed. Educational simulation only.",
+  "features": [
+    "x1",
+    "x2",
+    "x3",
+    "x4"
+  ]
+}

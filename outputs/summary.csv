@@ -1,0 +1,4 @@
+mode,final_loss,final_accuracy,rounds,clients,noise_multiplier_demo_only,formal_epsilon
+non_private,0.5376435835927512,0.735,30,5,0.0,NOT_COMPUTED
+fixed_dp,0.5585554912828666,0.70875,30,5,0.35,NOT_COMPUTED
+adaptive,0.5369926183180755,0.73875,30,5,0.35,NOT_COMPUTED
